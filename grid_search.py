@@ -16,7 +16,7 @@ if __name__ == '__main__':
 	]
 	device = "cuda"
 	small_subset = False
-	batch_size = 64
+	batch_size = 8
 
 
 
